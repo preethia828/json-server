@@ -1,0 +1,3 @@
+=>to install package.json => npm init -y
+=>For json server dependencynpm => i json-server@0.17.4
+=>  adter creating data , npx json-server file_name.json  to available the data in internet

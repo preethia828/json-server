@@ -1,0 +1,122 @@
+{
+  "allVideos": [
+    {
+      "caption": "Amaran",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/fNHwigh-RU4",
+      "id": 1
+    },
+    {
+      "caption": "Lucky Basker",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Lucky_Baskhar_film_poster.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/Qi11T_VfA9c",
+      "id": 7
+    },
+    {
+      "caption": "Kilukkam",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTI3ZDZmNmMtYjIxNC00MmYwLWE4ZTQtMzI5YmVmYTBhYWRjXkEyXkFqcGc@._V1_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/cWlT6deMZJ8",
+      "id": 2
+    },
+    {
+      "caption": "vazha",
+      "imageUrl": "https://preview.redd.it/vazha-%E0%B4%B5-%E0%B4%B4-reviews-and-ratings-august-15-2024-v0-preqjcgyrrid1.png?auto=webp&s=0c9378cbb8dd77313070a5a6d25f461c4c885984",
+      "youtubeUrl": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "id": 9,
+      "categoryName": "Intrested",
+      "allVideos": [
+        {
+          "caption": "Aranyakam",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjg3ZDc0MjUtNmU5Ni00NGZiLTgyMWEtZWMyMDg4NDI3ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/IwuVDRyfSpU",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "categoryName": "Sweet",
+      "allVideos": [
+        {
+          "caption": "Bramaram",
+          "imageUrl": "https://static.qobuz.com/images/covers/ob/ys/nesg24m94ysob_600.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/AY3Yea6hBbI",
+          "id": 1
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "caption": "Sookshma darshini",
+      "youtubeUrl": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "9/12/2024, 1:25:57 pm",
+      "id": 1
+    },
+    {
+      "caption": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "10/12/2024, 2:28:39 pm",
+      "id": 2
+    },
+    {
+      "caption": "Aranyakam",
+      "youtubeUrl": "https://www.youtube.com/embed/IwuVDRyfSpU",
+      "formatedDate": "12/12/2024, 1:54:30 pm",
+      "id": 3
+    },
+    {
+      "caption": "Aranyakam",
+      "youtubeUrl": "https://www.youtube.com/embed/IwuVDRyfSpU",
+      "formatedDate": "12/12/2024, 1:54:42 pm",
+      "id": 4
+    },
+    {
+      "caption": "Kilukkam",
+      "youtubeUrl": "https://www.youtube.com/embed/cWlT6deMZJ8",
+      "formatedDate": "12/12/2024, 1:54:53 pm",
+      "id": 5
+    },
+    {
+      "caption": "Aranyakam",
+      "youtubeUrl": "https://www.youtube.com/embed/IwuVDRyfSpU",
+      "formatedDate": "12/12/2024, 1:55:01 pm",
+      "id": 6
+    },
+    {
+      "caption": "Bramaram",
+      "youtubeUrl": "https://www.youtube.com/embed/AY3Yea6hBbI",
+      "formatedDate": "12/12/2024, 1:55:23 pm",
+      "id": 7
+    },
+    {
+      "caption": "Amaran",
+      "youtubeUrl": "https://www.youtube.com/embed/fNHwigh-RU4",
+      "formatedDate": "12/12/2024, 1:55:56 pm",
+      "id": 8
+    },
+    {
+      "caption": "Lucky Basker",
+      "youtubeUrl": "https://www.youtube.com/embed/Qi11T_VfA9c",
+      "formatedDate": "12/12/2024, 1:56:05 pm",
+      "id": 9
+    },
+    {
+      "caption": "vazha",
+      "youtubeUrl": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "formatedDate": "12/12/2024, 1:56:11 pm",
+      "id": 10
+    },
+    {
+      "caption": "Kilukkam",
+      "youtubeUrl": "https://www.youtube.com/embed/cWlT6deMZJ8",
+      "formatedDate": "12/12/2024, 1:56:33 pm",
+      "id": 11
+    }
+  ]
+}
